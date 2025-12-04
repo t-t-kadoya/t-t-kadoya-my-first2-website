@@ -1,4 +1,3 @@
-# t-t-kadoya-my-first2-website
 <!DOCTYPE html>
 <html lang="ja">
 <head>
